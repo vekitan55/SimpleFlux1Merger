@@ -67,6 +67,6 @@ MIT License
 ## 🙏 Credits
 Based on Flux.1 architecture by Black Forest Labs.
 
-Inspired by SuperMerger.
+Inspired by [SuperMerger](https://github.com/hako-mikan/sd-webui-supermerger).
 
 Developed for ComfyUI advanced model merging workflows.
