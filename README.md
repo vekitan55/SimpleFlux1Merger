@@ -33,7 +33,6 @@ This extension provides **both simplified group merging** and **expert per-layer
 
 Clone or download this repository into your ComfyUI `custom_nodes/` directory:
 
-```bash
 git clone https://github.com/yourname/comfyui-simplified-flux1.git
 
 ---
