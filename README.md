@@ -36,6 +36,7 @@ Clone or download this repository into your ComfyUI `custom_nodes/` directory:
 ```bash
 git clone https://github.com/yourname/comfyui-simplified-flux1.git
 
+---
 ## 🚀 Usage
 Launch ComfyUI.
 
@@ -51,6 +52,7 @@ Adjust sliders to define merge ratios.
 
 Select merge mode and execute.
 
+---
 ## 📌 Notes
 Compatible with Flux.1 and Schnell variants (if matching architecture).
 
@@ -58,9 +60,11 @@ Requires sufficient GPU memory; optimized for BF16.
 
 train_difference mode requires model C to match A/B in structure.
 
+---
 ## 📜 License
 MIT License
 
+---
 ## 🙏 Credits
 Based on Flux.1 architecture by Black Forest Labs.
 
